@@ -1,0 +1,17 @@
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.deps.json
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.runtimeconfig.json
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.dll
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.pdb
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.dll
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.pdb
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csproj.CopyComplete
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.dll
+/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.pdb

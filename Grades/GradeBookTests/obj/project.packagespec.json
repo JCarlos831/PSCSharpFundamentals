@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/GradeBookTests/GradeBookTests.csproj",
+    "projectName": "GradeBookTests",
+    "projectPath": "/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/GradeBookTests/GradeBookTests.csproj",
+    "outputPath": "/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/GradeBookTests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades/Grades.csproj": {
+            "projectPath": "/Users/JuanCMontoya/Projects/PluralSight/CSharp_Fundamentals/Grades/Grades/Grades.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
