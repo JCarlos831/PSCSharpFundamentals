@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3dcc182-03c3-4b2c-adaa-1ef999a01e51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grades/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/GradeBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/GradeBook.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/bin/Debug/netcoreapp2.1/Grades.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/bin/Debug/netcoreapp2.1/Grades.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/bin/Debug/netcoreapp2.1/Grades.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/bin/Debug/netcoreapp2.1/Grades.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades/obj/Debug/netcoreapp2.1/Grades.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +38,71 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="10" />
+          <entry key="csproj" value="1" />
+          <entry key="json" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="10" />
+          <entry key="Csproj" value="1" />
+          <entry key="JSON" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="620" />
+          <entry key="cs" value="2651" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="620" />
+          <entry key="C#" value="2651" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="79">
+              <caret line="14" column="49" selection-start-line="12" selection-start-column="47" selection-end-line="14" selection-end-column="49" />
               <folding>
-                <marker date="1545847598304" expanded="true" signature="31:482" ph="{...}" />
-                <marker date="1545847598304" expanded="true" signature="51:480" ph="{...}" />
-                <marker date="1545847598304" expanded="true" signature="97:474" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="31:1524" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="51:1522" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="97:868" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="215:364" ph="/* book.NameChanged += OnNameChanged2; ... */" />
+                <marker date="1545940259497" expanded="true" signature="946:1069" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="1079:1216" ph="/* static void OnNameChanged2(string existingName, string newName) ... */" />
+                <marker date="1545940259497" expanded="true" signature="1289:1369" ph="{...}" />
+                <marker date="1545940259497" expanded="true" signature="1436:1516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grades.Tests/Types/ReferenceTypeTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1545857638529" expanded="true" signature="6:36" ph="..." />
+                <marker date="1545857638529" expanded="true" signature="66:2373" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="113:2371" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="168:343" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="391:442" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="496:641" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="705:870" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="938:1063" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="1113:1182" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="1254:1500" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="1552:1611" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="1675:1899" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="1968:2100" ph="{...}" />
+                <marker date="1545857638529" expanded="true" signature="2179:2365" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,19 +122,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="331">
+              <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
               <folding>
-                <marker date="1545847598302" expanded="true" signature="6:47" ph="..." />
-                <marker date="1545847598302" expanded="true" signature="65:849" ph="{...}" />
-                <marker date="1545847598302" expanded="true" signature="94:847" ph="{...}" />
-                <marker date="1545847598302" expanded="true" signature="127:188" ph="{...}" />
-                <marker date="1545847598302" expanded="true" signature="240:691" ph="{...}" />
-                <marker date="1545847598302" expanded="true" signature="395:599" ph="{...}" />
-                <marker date="1545847598302" expanded="true" signature="742:794" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="6:47" ph="..." />
+                <marker date="1545932860992" expanded="true" signature="65:1521" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="94:1519" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="127:217" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="269:720" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="424:628" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="771:823" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="851:1382" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="911:1372" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="975:1358" ph="{...}" />
+                <marker date="1545932860992" expanded="true" signature="1033:1305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grades/NameChangedDelegate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
+              <folding>
+                <marker date="1545932860991" expanded="true" signature="16:109" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grades/NameChangedEventsArgs.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              <folding>
+                <marker date="1545932860994" expanded="true" signature="31:191" ph="{...}" />
+                <marker date="1545932860994" expanded="true" signature="84:189" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -94,14 +175,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GradeBookTests/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93235B2B-4E37-45B0-9A06-2EECFAA7B752/58/a4283f04/ValueType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grades/NameChangedEventsArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grades.Tests/Types/ReferenceTypeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grades/NameChangedDelegate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades/GradeStatistics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades/GradeBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grades.Tests/GradeBookTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Grades/GradeStatistics.cs" />
+        <option value="$PROJECT_DIR$/GradeBookTests/Class1.cs" />
+        <option value="$PROJECT_DIR$/Grades.Tests/Class1.cs" />
+        <option value="$PROJECT_DIR$/Grades.Tests/GradeBookTests.cs" />
+        <option value="$PROJECT_DIR$/Grades.Tests/Types/ReferenceTypeTests.cs" />
+        <option value="$PROJECT_DIR$/Grades/NameChangedEventsArgs.cs" />
+        <option value="$PROJECT_DIR$/Grades/NameChangedDelegate.cs" />
         <option value="$PROJECT_DIR$/Grades/GradeBook.cs" />
         <option value="$PROJECT_DIR$/Grades/Program.cs" />
       </list>
@@ -146,6 +239,10 @@
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -160,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Grades/bin/Debug/netcoreapp2.1/Grades.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -184,6 +281,9 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -195,12 +295,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545844899343</updated>
-      <workItem from="1545844900545" duration="3403000" />
+      <workItem from="1545844900545" duration="14450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3403000" />
+    <option name="totallyTimeSpent" value="14450000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,20 +316,20 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993804" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" sideWeight="0.5006196" side_tool="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32961586" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Floobits" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32961586" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32961586" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -260,14 +360,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
+    <entry file="file://$PROJECT_DIR$/GradeBookTests/obj/project.packagespec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradeBookTests/obj/project.assets.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        <state relative-caret-position="-3047" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradeBookTests/GradeBookTests.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades.Tests/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradeBookTests/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1545847598304" expanded="true" signature="31:482" ph="{...}" />
-            <marker date="1545847598304" expanded="true" signature="51:480" ph="{...}" />
-            <marker date="1545847598304" expanded="true" signature="97:474" ph="{...}" />
+            <marker date="1545849774041" expanded="true" signature="39:79" ph="{...}" />
+            <marker date="1545849774041" expanded="true" signature="65:77" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -284,18 +396,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
+    <entry file="file://$PROJECT_DIR$/Grades.Tests/GradeBookTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <marker date="1545851122398" expanded="true" signature="46:1092" ph="{...}" />
+            <marker date="1545851122398" expanded="true" signature="98:1090" ph="{...}" />
+            <marker date="1545851122398" expanded="true" signature="162:408" ph="{...}" />
+            <marker date="1545851122398" expanded="true" signature="474:719" ph="{...}" />
+            <marker date="1545851122398" expanded="true" signature="786:1075" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93235B2B-4E37-45B0-9A06-2EECFAA7B752/58/a4283f04/ValueType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades.Tests/Types/ReferenceTypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1545847598302" expanded="true" signature="6:47" ph="..." />
-            <marker date="1545847598302" expanded="true" signature="65:849" ph="{...}" />
-            <marker date="1545847598302" expanded="true" signature="94:847" ph="{...}" />
-            <marker date="1545847598302" expanded="true" signature="127:188" ph="{...}" />
-            <marker date="1545847598302" expanded="true" signature="240:691" ph="{...}" />
-            <marker date="1545847598302" expanded="true" signature="395:599" ph="{...}" />
-            <marker date="1545847598302" expanded="true" signature="742:794" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="6:36" ph="..." />
+            <marker date="1545857638529" expanded="true" signature="66:2373" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="113:2371" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="168:343" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="391:442" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="496:641" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="705:870" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="938:1063" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="1113:1182" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="1254:1500" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="1552:1611" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="1675:1899" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="1968:2100" ph="{...}" />
+            <marker date="1545857638529" expanded="true" signature="2179:2365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/NameChangedEventsArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding>
+            <marker date="1545932860994" expanded="true" signature="31:191" ph="{...}" />
+            <marker date="1545932860994" expanded="true" signature="84:189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/NameChangedDelegate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
+          <folding>
+            <marker date="1545932860991" expanded="true" signature="16:109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+          <folding>
+            <marker date="1545932860992" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545932860992" expanded="true" signature="65:1521" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="94:1519" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="127:217" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="269:720" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="424:628" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="771:823" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="851:1382" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="911:1372" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="975:1358" ph="{...}" />
+            <marker date="1545932860992" expanded="true" signature="1033:1305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="14" column="49" selection-start-line="12" selection-start-column="47" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <marker date="1545940259497" expanded="true" signature="31:1524" ph="{...}" />
+            <marker date="1545940259497" expanded="true" signature="51:1522" ph="{...}" />
+            <marker date="1545940259497" expanded="true" signature="97:868" ph="{...}" />
+            <marker date="1545940259497" expanded="true" signature="215:364" ph="/* book.NameChanged += OnNameChanged2; ... */" />
+            <marker date="1545940259497" expanded="true" signature="946:1069" ph="{...}" />
+            <marker date="1545940259497" expanded="true" signature="1079:1216" ph="/* static void OnNameChanged2(string existingName, string newName) ... */" />
+            <marker date="1545940259497" expanded="true" signature="1289:1369" ph="{...}" />
+            <marker date="1545940259497" expanded="true" signature="1436:1516" ph="{...}" />
           </folding>
         </state>
       </provider>
