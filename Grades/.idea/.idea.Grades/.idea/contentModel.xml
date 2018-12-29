@@ -15,6 +15,8 @@
         <e p="Grades.csproj" t="IncludeRecursive" />
         <e p="grades.txt" t="Include" />
         <e p="GradeStatistics.cs" t="Include" />
+        <e p="GradeTracker.cs" t="Include" />
+        <e p="IGradeTracker.cs" t="Include" />
         <e p="NameChangedDelegate.cs" t="Include" />
         <e p="NameChangedEventsArgs.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -25,6 +27,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="ThrowAwayGradeBook.cs" t="Include" />
       </e>
       <e p="Grades.sln" t="IncludeFlat" />
       <e p="Grades.Tests" t="IncludeRecursive">

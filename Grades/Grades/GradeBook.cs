@@ -1,10 +1,11 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
 namespace Grades
 {
-    public class GradeBook
+    public class GradeBook : GradeTracker
     {
         public GradeBook()
         {
@@ -12,8 +13,10 @@ namespace Grades
             _grades = new List<float>();
         }
 
-        public GradeStatistics ComputeStatistics()
+        public override GradeStatistics ComputeStatistics()
         {
+            Console.WriteLine("GradeBook::ComputeStatistics");
+
             GradeStatistics stats = new GradeStatistics();
 
             float sum = 0;
@@ -30,38 +33,19 @@ namespace Grades
             return stats;
         }
 
-        public void AddGrade(float grade)
+        public override void AddGrade(float grade)
         {
             _grades.Add(grade);
         }
 
-        public string Name
+        public override IEnumerator GetEnumerator()
         {
-            get { return _name; }
-            set
-            {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentException("Name cannot be null or empty");
-                }
-                
-                if (_name != value && NameChanged != null)
-                {
-                    NameChangedEventsArgs args = new NameChangedEventsArgs();
-                    args.ExistingName = _name;
-                    args.NewName = value;
-                    NameChanged(this, args);
-                }
-
-                _name = value;
-            }
+            return _grades.GetEnumerator();
         }
+        
+        protected readonly List<float> _grades;
 
-        public event NameChangedDelegate NameChanged;
-        private readonly List<float> _grades;
-        private string _name;
-
-        public void WriteGrades(TextWriter destination)
+        public override void WriteGrades(TextWriter destination)
         {
             for (int i = 0; i < _grades.Count; i++)
             {
