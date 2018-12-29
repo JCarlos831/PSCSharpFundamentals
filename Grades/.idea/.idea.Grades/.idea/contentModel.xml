@@ -13,6 +13,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="GradeBook.cs" t="Include" />
         <e p="Grades.csproj" t="IncludeRecursive" />
+        <e p="grades.txt" t="Include" />
         <e p="GradeStatistics.cs" t="Include" />
         <e p="NameChangedDelegate.cs" t="Include" />
         <e p="NameChangedEventsArgs.cs" t="Include" />

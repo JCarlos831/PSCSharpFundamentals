@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Grades
 {
@@ -6,44 +7,62 @@ namespace Grades
     {
         static void Main(string[] args)
         {
-
             GradeBook book = new GradeBook();
-            
-            book.NameChanged += OnNameChanged;
-//            book.NameChanged += OnNameChanged2;
-//            book.NameChanged += OnNameChanged2;
-//            book.NameChanged -= OnNameChanged2;
-            
-            book.Name = "Juan's Grade Book";
-            book.Name = "Grade Book";
+
+            GetBookName(book);
+            AddGrades(book);
+            SaveGrades(book);
+            WriteResults(book);
+        }
+
+        private static void WriteResults(GradeBook book)
+        {
+            GradeStatistics stats = book.ComputeStatistics();
+            WriteResult("Average grade", stats.AverageGrade);
+            WriteResult("Highest grade", stats.HighestGrade);
+            WriteResult("Lowest grade", stats.LowestGrade);
+            WriteResult(stats.Description, stats.LetterGrade);
+        }
+
+        private static void SaveGrades(GradeBook book)
+        {
+            using (StreamWriter outputFile = File.CreateText("grades.txt"))
+            {
+                book.WriteGrades(outputFile);
+            }
+        }
+
+        private static void AddGrades(GradeBook book)
+        {
             book.AddGrade(91);
             book.AddGrade(89.5f);
             book.AddGrade(75);
-
-            GradeStatistics stats = book.ComputeStatistics();
-            Console.WriteLine(book.Name);
-            WriteResult("Average grade", stats.AverageGrade);
-            WriteResult("Highest grade", (int) stats.HighestGrade);
-            WriteResult("Lowest grade", (int) stats.LowestGrade);
-
         }
 
-        static void OnNameChanged(object sender, NameChangedEventsArgs args)
+        private static void GetBookName(GradeBook book)
         {
-            Console.WriteLine($"Grade book changing name from {args.ExistingName} to {args.NewName}");
+            try
+            {
+                Console.WriteLine("Enter a name");
+                book.Name = Console.ReadLine();
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (NullReferenceException)
+            {
+                Console.WriteLine("Something went wrong!");
+            }
         }
-        
-//        static void OnNameChanged2(string existingName, string newName)
-//        {
-//            Console.WriteLine("***");
-//        }
-        
-        static void WriteResult(string description, int result)
-        {
-            Console.WriteLine(description + ": " + result);
-        }
+
 
         static void WriteResult(string description, float result)
+        {
+            Console.WriteLine($"{description} : {result}");
+        }
+        
+        static void WriteResult(string description, string result)
         {
             Console.WriteLine($"{description} : {result}");
         }
